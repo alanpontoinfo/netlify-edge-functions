@@ -1,0 +1,12 @@
+{
+  "name": "netlify-edge-functions",
+  "version": "1.0.0",
+  "description": "Code examples to support the Getting Started with Netlify Edge Functions tutorial.",
+  "scripts": {},
+  "author": "alansantos",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanpontoinfo/netlify-edge-functions.git"
+  }
+}
