@@ -16,18 +16,18 @@ Este tutorial vai levar você usar Edge Functions no Netlify para construir as s
 
 Vamis escrever um Edge Function pars servir o texto `Hello, World do  edgefunction!`
 
-[/hello](https://netlify-edge-functions.netlify.app/hello)
+[/hello](https://iniciando-edge-functions.netlify.app/hello)
 
 ## 2. Serve um template Html
 
 Nós vamos configurar um projeto para servir arquivos estático  para um template Html do diretório /public.
-[/hello-template](https://netlify-edge-functions.netlify.app/hello-template)
+[/hello-template](https://iniciando-edge-functions.netlify.app/hello-template)
 
 ## 3. Add dados de localização ao HTML template
 
 Nós vamos escrever um Edge Function para interceptar um static html template e atualizar ele usando geolocalização dos dados na Edge (borda).
 
-[/hello-template?method=transform](https://netlify-edge-functions.netlify.app/hello-template?method=transform)
+[/hello-template?method=transform](https://iniciando-edge-functions.netlify.app/hello-template?method=transform)
 
 ## Assista o video tutorial
 
